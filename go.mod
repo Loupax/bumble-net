@@ -1,4 +1,4 @@
-module local/waf
+module github.com/Loupax/bumble-net
 
 go 1.13
 
